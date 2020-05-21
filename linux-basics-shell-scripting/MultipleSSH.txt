@@ -1,0 +1,11 @@
+Fullstack Test - SSH - 2218
+You can have multiple ssh keys on your system to connect to different github accounts?
+
+You will get full points if and only if you give CORRECT ANSWER in first attempt. All later attempts will get you ZERO score.
+
+    None of these
+    false
+    true
+    Can't say
+
+Ans: (C) True
