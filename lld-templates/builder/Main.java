@@ -12,7 +12,9 @@ class Main {
                 .setOwnerName("John Doe")
                 .build();
         System.out.println(ba1.toString());
+        // ba1 = ba1.Builder().setBalance(1.0).build(); // NOT ALLOWED - Privacy Protected
 
+        // ba1.setBalance(1.0); // NOT ALLOWED - Privacy Protected
         System.out.println("\n");
 
         BankAccount ba2 = new BankAccount.Builder()
