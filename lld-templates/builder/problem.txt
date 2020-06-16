@@ -1,0 +1,6 @@
+You're a part of a team that works in Java backend development and
+you're working on a piece of software to design banking application.
+Among many other things, you'll have to design a BankAccount class which
+contain several class attributes (use your imagination). Write a scalable and
+reusable good which follows Builder pattern to implement the same. Also, write the
+client side usage example.
